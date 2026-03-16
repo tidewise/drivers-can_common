@@ -1,6 +1,7 @@
 #include "PGNLibrary.hpp"
 #include <algorithm>
 #include <vector>
+#include <stdexcept>
 
 using namespace std;
 using namespace can_common;
